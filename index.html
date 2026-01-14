@@ -9,6 +9,12 @@
   <meta name="description" content="HESI Exam Prep - Study for Vocabulary, Grammar, Reading, and Math" />
   <title>HESI Exam Prep</title>
   <link rel="manifest" href="./manifest.json" />
+  <script>
+    // Ensure hash route exists for HashRouter
+    if (!window.location.hash || window.location.hash === '') {
+      window.location.hash = '#/';
+    }
+  </script>
 </head>
 <body>
   <div id="root"></div>
