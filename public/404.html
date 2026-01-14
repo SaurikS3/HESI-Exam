@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HESI Exam Prep</title>
+  <script>
+    // Redirect to the main app - handle GitHub Pages SPA routing
+    const path = window.location.pathname;
+    const basePath = '/HESI-Exam';
+    if (path.startsWith(basePath)) {
+      const relativePath = path.substring(basePath.length);
+      sessionStorage.setItem('redirect', relativePath);
+    }
+    window.location.replace('/HESI-Exam/');
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>
