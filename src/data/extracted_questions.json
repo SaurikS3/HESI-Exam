@@ -1,0 +1,78 @@
+{
+  "math": [
+    {
+      "question": "1,283 + 188 = ?",
+      "answer": "1,471"
+    },
+    {
+      "question": "273 + 47 = ?",
+      "answer": "320"
+    },
+    {
+      "question": "1,644 + 357 = ?",
+      "answer": "2,001"
+    },
+    {
+      "question": "73 + 211 + 22 = ?",
+      "answer": "306"
+    },
+    {
+      "question": "382 - 150 = ?",
+      "answer": "232"
+    },
+    {
+      "question": "246 - 47 = ?",
+      "answer": "199"
+    },
+    {
+      "question": "568 - 170 = ?",
+      "answer": "398"
+    },
+    {
+      "question": "17,444 - 923 = ?",
+      "answer": "16,521"
+    },
+    {
+      "question": "Sam walks 2 blocks to Stacey’s house. They both walk 5 blocks to the park. How far has Sam walked?",
+      "answer": "7 blocks"
+    },
+    {
+      "question": "Lisa buys 12 eggs from the store so she can make pancakes. The pancake recipe calls for 3 eggs. How many eggs will Lisa have left after making the pancakes?",
+      "answer": "9"
+    }
+  ],
+  "reading": [
+    {
+      "question": "Which is the author’s primary purpose in writing the essay about penicillin?",
+      "answer": "To inform the reader about how penicillin was discovered."
+    },
+    {
+      "question": "According to the passage, which statement is false?",
+      "answer": "One of Fleming’s Petri dishes became contaminated with bacteria."
+    },
+    {
+      "question": "What is the meaning of the word 'grave' in the first paragraph?",
+      "answer": "Very serious"
+    }
+  ],
+  "vocabulary": [
+    {
+      "question": "Select the meaning of the underlined word in the sentence: She felt dizzy and had difficulty ambulating.",
+      "answer": "Walking"
+    },
+    {
+      "question": "The nurse’s notation describes the patient as 'febrile.' Based on this information, which statement is true?",
+      "answer": "The patient has a fever."
+    }
+  ],
+  "grammar": [
+    {
+      "question": "Which word in the following sentence is a verb? Roy was afraid he would not be able to finish the race.",
+      "answer": "was"
+    },
+    {
+      "question": "Which word in the following sentence is the direct object? Tom’s dad gave him a bicycle for his birthday.",
+      "answer": "bicycle"
+    }
+  ]
+}
